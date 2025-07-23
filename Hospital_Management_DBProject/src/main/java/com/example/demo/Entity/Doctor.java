@@ -2,7 +2,7 @@ package com.example.demo.Entity;
 
 import jakarta.persistence.Entity;
 import jakarta.persistence.Id;
-
+//sample
 @Entity
 public class Doctor {
 	@Id
